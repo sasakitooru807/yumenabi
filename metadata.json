@@ -1,0 +1,7 @@
+{
+  "name": "Dream Navigator (ゆめナビ)",
+  "description": "小学生向けの夢応援アプリ。AIキャラクターと一緒に将来の夢について話し合い、実現のためのアドバイスやロードマップを作成します。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
